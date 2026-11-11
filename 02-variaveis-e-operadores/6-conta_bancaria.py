@@ -11,19 +11,21 @@ while numero != (4):
     if numero == 1:
         deposito = int(input("Digite o valor que quer depositar: "))
         deposito += saldo
+        print("Sucesso! seu saldo atual disponível é:", saldo)
+
     if numero == 2:
-        sacar = int(input("Digite o valor que quer sacar: "))
+        sacar = float(input("Digite o valor que quer sacar: "))
         if sacar > saldo:
             print ("Saldo insuficiente")
         else:
-            sacar -= saldo
+            saldo -= sacar
             print("Sucesso! o valor está sendo sacado, seu saldo restante é:", saldo)
 
     if numero == 3:
         print("Seu saldo atual disponível é:", saldo)
 
-    else:
-        print("Digite os numeros 1,2,3 ou 4")
+    if numero == 4:
+            print("Volte sempre!")
 
     input()
 
