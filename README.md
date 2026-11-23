@@ -28,7 +28,6 @@ Ao longo do semestre, serão estudados os seguintes conteúdos:
 
 *Os conteúdos serão atualizados conforme o andamento da disciplina.*
 
-```
 
 ##  Objetivo
 
@@ -39,4 +38,6 @@ Cada exercício representa uma etapa do aprendizado e uma oportunidade de aprimo
 ---
 
 *"Grandes projetos começam com pequenos códigos."*
+
+
 
