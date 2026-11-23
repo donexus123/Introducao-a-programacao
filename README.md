@@ -11,17 +11,20 @@ Este espaço representa o início da minha jornada na programação, reunindo co
 - **Docente:** Bruno Jefferson de Sousa Pessoa
 - **Linguagem:** Python
 
-## Conteúdos estudados
+## Conteúdos da disciplina
 
-Os exercícios estão organizados por temas, acompanhando minha evolução no aprendizado.
+Ao longo do semestre, serão estudados os seguintes conteúdos:
 
-- Variáveis e tipos de dados
-- Operadores aritméticos e lógicos
-- Estruturas condicionais (`if`, `elif`, `else`)
-- Estruturas de repetição (`for`, `while`)
-- Listas e outras estruturas de dados
-- Funções
-- Resolução de problemas utilizando Python
+| Conteúdo | Tópicos |
+|---|---|
+| **Algoritmos** | Lógica de programação e resolução de problemas |
+| **Introdução à Linguagem Python** | Sintaxe, variáveis, tipos de dados e operadores |
+| **Estruturas de Decisão** | `if`, `elif` e `else` |
+| **Estruturas de Repetição** | Laços `while` e `for` |
+| **Listas, Tuplas e Dicionários** | Estruturas de armazenamento e manipulação de dados |
+| **Funções** | Modularização e reutilização de código |
+| **Strings** | Manipulação e processamento de textos |
+| **PyGame** | Desenvolvimento de aplicações e jogos com Python |
 
 *Os conteúdos serão atualizados conforme o andamento da disciplina.*
 
