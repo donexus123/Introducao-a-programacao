@@ -28,22 +28,6 @@ Ao longo do semestre, serão estudados os seguintes conteúdos:
 
 *Os conteúdos serão atualizados conforme o andamento da disciplina.*
 
-## Organização do repositório
-
-```text
-Introducao-a-Programacao/
-│
-├── README.md
-│
-├── 01-variaveis-e-operadores/
-│
-├── 02-condicionais/
-│
-├── 03-lacos-de-repeticao/
-│
-├── 04-listas/
-│
-└── 05-funcoes/
 ```
 
 ##  Objetivo
