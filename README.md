@@ -1,4 +1,4 @@
-# Introdução à Programação — 2026.2 - CI / UFPB
+# Introdução à Programação — 2026.2 — CI / UFPB
 
 Repositório dedicado aos estudos, exercícios e projetos desenvolvidos durante a disciplina de **Introdução à Programação**, no curso de Ciência de Dados e Inteligência Artificial.
 
