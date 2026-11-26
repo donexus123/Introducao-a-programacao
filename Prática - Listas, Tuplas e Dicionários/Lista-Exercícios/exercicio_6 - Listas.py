@@ -10,6 +10,7 @@ for i in range(n):
 
 distancias = []
 
+
 for i in range(n):
     for j in range(i + 1, n):
         x1 = pontos[i][0]
@@ -20,3 +21,11 @@ for i in range(n):
 
         distancia = ((x2 - x1)**2 + (y2 - y1)**2)**0.5
         distancias.append(distancia)
+
+menor = min(distancias)
+maior = max(distancias)
+media = sum(distancias) / len(distancias)
+
+print(f"A menor distância: {menor:.2f}")
+print(f"A maior distância: {maior:.2f}")
+print(f"A média das distâncias: {media:.2f}")
